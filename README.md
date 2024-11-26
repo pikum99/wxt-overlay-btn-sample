@@ -2,4 +2,4 @@
 
 This template should help get you started developing with React in WXT.
 
-[![Image from Gyazo](https://i.gyazo.com/f19500bbd25415f17b3de5b138c5268c.gif)](https://gyazo.com/f19500bbd25415f17b3de5b138c5268c)
+[![Image from Gyazo](https://i.gyazo.com/589ca67bcdf3d61f7e8267e63177b31d.gif)](https://gyazo.com/589ca67bcdf3d61f7e8267e63177b31d)
